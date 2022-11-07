@@ -64,7 +64,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="center" backgroundColor="white">
 <a href="https://github.com/eilonv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -88,11 +88,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=e7l5442beoin5lgh0zmd41hi7&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
 
