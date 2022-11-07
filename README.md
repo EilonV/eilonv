@@ -18,7 +18,7 @@
 - 🔨 My biggest project yet and still in progress [Fiverr clone](https://react-reviews-vus7.onrender.com/)  
   
 
-💜 My favorite project yet made with canvas [Meme Generator](https://eilonv.github.io/Meme-Generator/)  
+- 💜 My favorite project yet made with canvas [Meme Generator](https://eilonv.github.io/Meme-Generator/)  
   
 
 - ⚡ Fun fact: I always color my vscode before i begin coding  
@@ -91,6 +91,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eilonv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+## Recent Blog Posts  
   
 
 <br/>  
