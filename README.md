@@ -18,7 +18,7 @@
 - 🔨 My biggest project yet and still in progress [Fiverr clone](https://react-reviews-vus7.onrender.com/)  
   
 
-- 💜 My favorite project yet made with canvas [Meme Generator](https://eilonv.github.io/Meme-Generator/)  
+💜 My favorite project yet made with canvas [Meme Generator](https://eilonv.github.io/Meme-Generator/)  
   
 
 - ⚡ Fun fact: I always color my vscode before i begin coding  
@@ -50,7 +50,7 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="center" backgroundColor="white">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
