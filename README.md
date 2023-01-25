@@ -9,7 +9,7 @@
 ### <div align="center">I'm Eilon, a full stack developer 👨‍💻 currently looking for work as a frontend 🚪 / full stack developer 🌕</div>  
   
 
-- 🌱 I’m currently learning Next.js  
+- 🌱 I’m currently learning Angular  
   
 
 - ❓ Ask me about anything related to CSS / Sass related technologies  
