@@ -8,22 +8,18 @@
 ### // About me  
 ### <div align="center">I'm Eilon, a full stack developer 👨‍💻 currently looking for work as a frontend 🚪 / full stack developer 🌕</div>  
   
-
+- 💻 Personal website  [EilonVana](https://eilonvana.dev)  
+- 
 - 🌱 I’m currently learning Angular  
   
-
 - ❓ Ask me about anything related to CSS / Sass related technologies  
   
-
 - 🔨 My biggest project yet and still in progress [Fiverr clone](https://react-reviews-vus7.onrender.com/)  
-  
-
+ 
 - 💜 My favorite project yet [Animember - Anime information site](https://animember.netlify.app)  
-  
 
 - ⚡ Fun fact: I always color my vscode before i begin coding  
- 
- - Personal website  [EilonVana](https://eilonvana.dev)  
+
 
 <br/>  
 
