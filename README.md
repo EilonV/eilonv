@@ -18,11 +18,12 @@
 - 🔨 My biggest project yet and still in progress [Fiverr clone](https://react-reviews-vus7.onrender.com/)  
   
 
-- 💜 My favorite project yet made with canvas [Meme Generator](https://eilonv.github.io/Meme-Generator/)  
+- 💜 My favorite project yet [Animember - Anime information site](https://animember.netlify.app)  
   
 
 - ⚡ Fun fact: I always color my vscode before i begin coding  
-  
+ 
+ - Personal website  [EilonVana](https://eilonvana.dev)  
 
 <br/>  
 
