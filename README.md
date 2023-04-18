@@ -1,9 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height:50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:70%" />
 </div>  
   
-
-
 
 ### // About me  
 ### <div align="center">I'm Eilon, a full stack developer 👨‍💻 currently looking for work as a frontend 🚪 / full stack developer 🌕</div>  
@@ -26,7 +24,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
