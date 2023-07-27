@@ -4,7 +4,7 @@
   
 
 ### // About me  
-### <div align="center">I'm Eilon, a full stack developer 👨‍💻 currently looking for work as a frontend 🚪 / full stack developer 🌕</div>  
+### <div align="center">I'm Eilon, a frontend developer 👨‍💻 currently looking for work 🚪 </div>  
   
 - 💻 Personal website  [EilonVana](https://eilonvana.dev)  
 
